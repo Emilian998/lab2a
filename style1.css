@@ -1,0 +1,10 @@
+body {
+	background-color: white;
+}
+
+@media all and (orientation: landscape) {
+body {
+		background-color: black;
+	}
+
+}

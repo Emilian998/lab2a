@@ -1,0 +1,34 @@
+body {
+	background-color: #000066;
+}
+h1	{
+
+}
+
+p {
+
+}
+ul {
+	list-style: 
+}
+
+div#header {
+	width: 100%;
+	height: 15%;
+	color: white;
+	background-color: #000066;
+}
+div#nav{
+
+}
+
+div#content {
+	background-color: white;
+	
+}
+
+div#footer {
+	height: 15%;
+	width: 100%;
+	color: white;
+}
